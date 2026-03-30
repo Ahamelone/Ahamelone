@@ -1,7 +1,7 @@
 ## Hi there, guys. I'm an *aspiring* full-stack developer who loves Rust 💞
 
 - I'm currently learning: **Rust**
-- I'm currently working on this project: **Achnop.bot**
+- I'm currently working on this project: **Orlyk Lab**
 
 Someday I'll finally write an AAA game using only JavaScript. Someday!
 
