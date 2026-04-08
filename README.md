@@ -1,4 +1,4 @@
-## Hi there, guys. I'm an *aspiring* full-stack developer who loves Crabs 💞
+## Hi there, guys. I'm an *aspiring* full-stack developer who loves Rust 💞
 
 - I'm currently learning: **Rust**
 - I'm currently working on this project: **Orlyk Tracker**
@@ -9,7 +9,7 @@ At the moment, I don't have any social media accounts, YouTube channels, or simi
 <br>You can follow me only here: Look at the top and read it again :) 
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tauri,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 ### Software
 [![My Software](https://skillicons.dev/icons?i=neovim,vscode,linux,windows,obsidian)](https://skillicons.dev)
 ### Social Media
